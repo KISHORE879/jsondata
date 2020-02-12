@@ -1,0 +1,15 @@
+h2{
+    color:black;
+    background-color: palevioletred;
+}
+h3{
+    color:red;
+    background-color: sandybrown;
+}
+h1{
+    color:palevioletred;
+    background-color: palegreen;
+    padding: 0%;
+    align-content: center;
+    text-align: center;
+}
